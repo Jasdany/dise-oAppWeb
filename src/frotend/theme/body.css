@@ -1,0 +1,33 @@
+body{
+    background-color: whitesmoke;   
+}
+
+.banner{
+   width: 70%;
+   height: 70;
+   margin-left: 15%;
+   margin-right: 15%;
+}
+.T1{
+    margin-left: 15%;
+}
+
+.c1{
+    width: 20%;
+    height: 20%;
+    margin-left: 15%;
+  
+}
+
+.c2{
+    width: 20%;
+    height: 20%;
+    margin-left: 5%;
+}
+
+.c3{
+    width: 20%;
+    height: 20%;
+    margin-left: 5%;
+    
+}

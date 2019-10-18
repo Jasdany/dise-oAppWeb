@@ -1,0 +1,21 @@
+li{
+    list-style: none;
+    display: inline;
+    margin:0 40px 0 40px ;
+}
+
+.logo{
+ width: 20%;
+ height: 20%;
+ margin-left:40%;
+ margin-right:40%;
+}
+
+.Menu{
+    width: 100%;
+    text-align: center;
+    background-color: brown;
+    font-size: 20px;
+    height: 50px;
+    line-height: 50px;
+}
